@@ -1,0 +1,7 @@
+/aiapi
+.env
+__pycache__
+venv
+logs/*
+.vscode
+logs
